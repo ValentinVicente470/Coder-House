@@ -1,0 +1,27 @@
+<body>     
+    <h1 style="color:rgb(0, 0, 0); font-family: 'Lora', serif; ; "> Ingrese Producto </h1>
+    <br>
+    <form action="/api/productos/post" method="POST">
+
+        <div class="form-group">
+            <label style="color:rgb(0, 0, 0)" for="name"> <b>Name:</b> </label>
+            <input type="text" class="form-control" style="width: 250px; background-color: rgb(140, 118, 169);" name="name" id="name">
+        </div>
+        <br>
+        <div class="form-group">
+            <label style="color:rgb(0, 0, 0)" for="price"> <b>Price:</b> </label>
+            <input  type="number" class="form-control" style="width: 250px; background-color: rgb(140, 118, 169);" name="price" id="price">     
+        </div>
+        <br>
+        <div class="form-group">
+            <label style="color:rgb(0, 0, 0)" for="thumbnail"> <b>Thumbnail:</b> </label>
+            <input type="text" class="form-control" style="width: 250px; background-color: rgb(140, 118, 169);"  name="thumbnail" id="thumbnail">
+        </div>
+        <br>
+        <div>
+            <button style= "font-family: 'Lora', serif; font-size: x-small;" type="submit" class="btn btn-success mt-3 mb-5"> Enviar </button>
+            <a style= "font-family: 'Lora', serif; font-size: x-small;" href="http://localhost:8082/api/productos/lista" class="btn btn-primary mt-3 mb-5"> Lista de Productos </a>
+        </div>
+            
+    </form>
+</body>
