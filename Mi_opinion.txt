@@ -1,0 +1,12 @@
+La verdad es que este desafio me resulto bastante dificil de completar 
+ya que al principio me confundia mucho entre los tres motores de plantillas,
+tuve que buscar y googlear bastante para llegar a comprender cosas que 
+resultaron muy simples despues de todo. Espero que este todo bien y haber 
+hecho el desafio correctamente.
+Mi opinion en cuanto a los motores de plantillas es bastante simple; De los
+tres utilizados me resulto mas comodo y simple utilizar PUG, pero si tengo 
+que elegir uno para aprender a usarlo cada vez mas y cotidianamente creo que
+me quedo con EJS.
+EJS me parecio mas completo que los demas y una vez que lo entendes, es mucho 
+mas facil utilizarlo y programar con metodos mas sencillos.
+
