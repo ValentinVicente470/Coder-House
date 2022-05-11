@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Teclado",
+    "price": "8.000",
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/hardware-and-devices/64/Hardware_devices_keyboard-128.png",
+    "id": 1
+  },
+  {
+    "name": "mouse",
+    "price": "4500",
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/electronics-and-gadget-3/64/MOUSE-devices-electronics-gadget-tools-128.png",
+    "id": 2
+  },
+  {
+    "name": "planchita",
+    "price": "5.000",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/beauty-colored/512/hair_straightener-128.png",
+    "id": 3
+  },
+  {
+    "name": "peluche",
+    "price": "500",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/animal-40/128/Animal_Cat-128.png",
+    "id": 4
+  },
+  {
+    "name": "audiculares",
+    "price": "25.000",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/video-games-18/64/31_headphones_microphone_game_gamer_cybersport_gaming_-128.png",
+    "id": 5
+  }
+]
